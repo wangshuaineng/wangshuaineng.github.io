@@ -196,7 +196,69 @@
   <entry>
     <title>一些摄影</title>
     <url>/2023/08/06/%E4%B8%80%E4%BA%9B%E6%91%84%E5%BD%B1/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link
+          rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"
+          />
+    <style>
+        .box8_7{
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .box8_7 a img{
+            width:275px;
+            height:274px;
+            margin-right:1px;
+            margin-bottom:1px;
+        }
+    </style>
+  </head>
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+    <script>
+        Fancybox.bind("[data-fancybox]", {
+  // Custom options for all galleries
+});
+Fancybox.bind('[data-fancybox="gallery-a"]', {
+  // Custom options for the first gallery
+});
+Fancybox.bind('[data-fancybox="gallery-b"]', {
+  // Custom options for the second gallery
+}); 
+    </script>
+  <body>
+    <div class = "box8_7">
+      <a data-fancybox="gallery-a" data-src="https://s2.loli.net/2023/08/06/iNGeRFC2lwEAbXo.jpg">
+        <img src="https://s2.loli.net/2023/08/06/iNGeRFC2lwEAbXo.jpg" />
+      </a>
+      <a data-fancybox="gallery-a" data-src="https://s2.loli.net/2023/08/06/LIJK6sSD3BG4lNO.jpg">
+        <img src="https://s2.loli.net/2023/08/06/LIJK6sSD3BG4lNO.jpg" />
+      </a>
+      <a data-fancybox="gallery-a" data-src="https://s2.loli.net/2023/08/06/VMy8tJoURDucPzZ.jpg">
+        <img src="https://s2.loli.net/2023/08/06/VMy8tJoURDucPzZ.jpg" />
+      </a>
+      <a data-fancybox="gallery-a" data-src="https://s2.loli.net/2023/08/06/qTvbN6RZeJX8Djt.jpg">
+        <img src="https://s2.loli.net/2023/08/06/qTvbN6RZeJX8Djt.jpg" />
+      </a>
+      <a data-fancybox="gallery-a" data-src="https://s2.loli.net/2023/08/06/FtAOEDfKdceiZ6o.jpg">
+        <img src="https://s2.loli.net/2023/08/06/FtAOEDfKdceiZ6o.jpg" />
+      </a>
+      <a data-fancybox="gallery-a" data-src="https://s2.loli.net/2023/08/06/Q8LEuqoBCNtmPAM.jpg">
+        <img src="https://s2.loli.net/2023/08/06/Q8LEuqoBCNtmPAM.jpg" />
+      </a><span id="more"></span>
+    </div class = "box8_7_2">
+      <a data-fancybox="gallery-b" data-src="https://s2.loli.net/2023/08/06/ZzJc1qnRoKVusSa.jpg">
+        <img src="https://s2.loli.net/2023/08/06/ZzJc1qnRoKVusSa.jpg" />
+    <div>
+    </div>
+  </body>
+</html>
+
+<p>photoed by me.</p>
+]]></content>
       <categories>
         <category>相册</category>
       </categories>
