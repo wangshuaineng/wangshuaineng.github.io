@@ -4,6 +4,12 @@ const ap = new APlayer({
     autoplay: true,
     audio: [
       {
+        name: 'Self Love',
+        artist: 'Metro Boomin / Coi Leray',
+        url: 'http://music.163.com/song/media/outer/url?id=2052349052.mp3',
+        cover: 'http://p2.music.126.net/SxtseFx6E4yP4o_PlWLPhA==/109951168652317597.jpg?param=130y130',
+      },
+      {
         name: '家走',
         artist: 'Newyounggo / 艾热 AIR',
         url: 'http://music.163.com/song/media/outer/url?id=538225861.mp3',

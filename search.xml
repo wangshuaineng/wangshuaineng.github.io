@@ -1,6 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>新的开始</title>
+    <url>/2023/08/01/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</url>
+    <content><![CDATA[<p>&emsp;&emsp;这是我第二次学习搭建个人博客了，还是从Hexo开始。<br>&emsp;&emsp;第一次是两年前，由于遇到了某些当时对我来说很难的问题就搁置了，只发布了一篇文章，其他功能也都没有完善。这次借着研究生开学前的暑假重新折腾一下，一来是完善之前未竟的工作，二来是用它记录一下生活。Hexo搭建好后计划用typecho或wordpress再搭一个。<br>&emsp;&emsp;由于我的图床还没弄好，所以暂时上传不了图片。<br>&emsp;&emsp;另外，今天学会了生成静态文件<code>hexo g</code>、启动服务器<code>hexo s</code>和发表新文章<code>hexo new &quot;文章标题&quot;</code>。markdown语法中的空格是<code>&amp;emsp;</code>。</p>
+]]></content>
+      <categories>
+        <category>杂记</category>
+      </categories>
+      <tags>
+        <tag>杂记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一些摄影</title>
+    <url>/2023/08/06/%E4%B8%80%E4%BA%9B%E6%91%84%E5%BD%B1/</url>
+    <content><![CDATA[<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link
+          rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"
+          />
+    <style>
+        .box8_7{
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .box8_7 a img{
+            width:275px;
+            height:274px;
+            margin-right:1px;
+            margin-bottom:1px;
+        }
+    </style>
+  </head>
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+    <script>
+        Fancybox.bind("[data-fancybox]", {
+  // Custom options for all galleries
+});
+Fancybox.bind('[data-fancybox="gallery-a"]', {
+  // Custom options for the first gallery
+});
+Fancybox.bind('[data-fancybox="gallery-b"]', {
+  // Custom options for the second gallery
+}); 
+    </script>
+  <body>
+    <div class = "box8_7">
+      <a data-fancybox="gallery-a" data-src="https://s2.loli.net/2023/08/06/iNGeRFC2lwEAbXo.jpg">
+        <img src="https://s2.loli.net/2023/08/06/iNGeRFC2lwEAbXo.jpg" />
+      </a>
+      <a data-fancybox="gallery-a" data-src="https://s2.loli.net/2023/08/06/LIJK6sSD3BG4lNO.jpg">
+        <img src="https://s2.loli.net/2023/08/06/LIJK6sSD3BG4lNO.jpg" />
+      </a>
+      <a data-fancybox="gallery-a" data-src="https://s2.loli.net/2023/08/06/VMy8tJoURDucPzZ.jpg">
+        <img src="https://s2.loli.net/2023/08/06/VMy8tJoURDucPzZ.jpg" />
+      </a><span id="more"></span>
+      <a data-fancybox="gallery-a" data-src="https://s2.loli.net/2023/08/06/qTvbN6RZeJX8Djt.jpg">
+        <img src="https://s2.loli.net/2023/08/06/qTvbN6RZeJX8Djt.jpg" />
+      </a>
+      <a data-fancybox="gallery-a" data-src="https://s2.loli.net/2023/08/06/FtAOEDfKdceiZ6o.jpg">
+        <img src="https://s2.loli.net/2023/08/06/FtAOEDfKdceiZ6o.jpg" />
+      </a>
+      <a data-fancybox="gallery-a" data-src="https://s2.loli.net/2023/08/06/Q8LEuqoBCNtmPAM.jpg">
+        <img src="https://s2.loli.net/2023/08/06/Q8LEuqoBCNtmPAM.jpg" />
+      </a>
+    </div class = "box8_7_2">
+      <a data-fancybox="gallery-b" data-src="https://s2.loli.net/2023/08/06/ZzJc1qnRoKVusSa.jpg">
+        <img src="https://s2.loli.net/2023/08/06/ZzJc1qnRoKVusSa.jpg" />
+    <div>
+    </div>
+  </body>
+</html>
+
+<p>photoed by me.</p>
+       
+]]></content>
+      <categories>
+        <category>相册</category>
+      </categories>
+  </entry>
+  <entry>
     <title>《马克思恩格斯选集》第一卷</title>
     <url>/2023/08/05/%E3%80%8A%E9%A9%AC%E5%85%8B%E6%80%9D%E6%81%A9%E6%A0%BC%E6%96%AF%E9%80%89%E9%9B%86%E3%80%8B%E7%AC%AC%E4%B8%80%E5%8D%B7/</url>
     <content><![CDATA[<h2 id="《异化劳动和私有财产》-1844年经济学哲学手稿"><a href="#《异化劳动和私有财产》-1844年经济学哲学手稿" class="headerlink" title="《异化劳动和私有财产》(1844年经济学哲学手稿)"></a>《异化劳动和私有财产》(1844年经济学哲学手稿)</h2><p>&emsp;&emsp;劳动是异化的，工人的劳动产品不属于工人，这种被迫劳动也不属于工人，而属于压榨这些工人的人。动物的生产活动和生命活动是一致的，而人类是不一致的，因为人类是有意识的生命活动。工人的生产活动是为了他的生命活动而服务。</p>
@@ -170,18 +253,6 @@
       </categories>
   </entry>
   <entry>
-    <title>新的开始</title>
-    <url>/2023/08/01/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</url>
-    <content><![CDATA[<p>&emsp;&emsp;这是我第二次学习搭建个人博客了，还是从Hexo开始。<br>&emsp;&emsp;第一次是两年前，由于遇到了某些当时对我来说很难的问题就搁置了，只发布了一篇文章，其他功能也都没有完善。这次借着研究生开学前的暑假重新折腾一下，一来是完善之前未竟的工作，二来是用它记录一下生活。Hexo搭建好后计划用typecho或wordpress再搭一个。<br>&emsp;&emsp;由于我的图床还没弄好，所以暂时上传不了图片。<br>&emsp;&emsp;另外，今天学会了生成静态文件<code>hexo g</code>、启动服务器<code>hexo s</code>和发表新文章<code>hexo new &quot;文章标题&quot;</code>。markdown语法中的空格是<code>&amp;emsp;</code>。</p>
-]]></content>
-      <categories>
-        <category>杂记</category>
-      </categories>
-      <tags>
-        <tag>杂记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>新的开始day2</title>
     <url>/2023/08/02/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8Bday2/</url>
     <content><![CDATA[<p>&emsp;&emsp;今天设置了<a href="https://theme-next.js.org/">Next</a>这个主题，并成功部署在了gitee上。相比于两年前，这次我有认真阅读Hexo的官方文档和Next主题的文档，于是很顺利地用了两天时间完成了两年前花费了两周的工作。两年前我的心态有很大一部分是出于功利的，想尽快搭好可以供我炫耀的博客，所以我没有认真读过官方文档，遇到问题就在搜索引擎里一通乱找、乱试，走过不少弯路。而这次我的心态有很大一部分是兴趣使然，所以我可以慢下来仔细阅读文档。这也让我意识到，官方文档比搜索引擎中的内容靠谱许多。<br>&emsp;&emsp;接下来的任务是把这个主题优化一下，并且将图床弄好。</p>
@@ -194,9 +265,9 @@
       </tags>
   </entry>
   <entry>
-    <title>一些摄影</title>
-    <url>/2023/08/06/%E4%B8%80%E4%BA%9B%E6%91%84%E5%BD%B1/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><html lang="en">
+    <title>另一些摄影</title>
+    <url>/2023/08/12/%E5%8F%A6%E4%B8%80%E4%BA%9B%E6%91%84%E5%BD%B1/</url>
+    <content><![CDATA[<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
@@ -205,11 +276,11 @@
           href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"
           />
     <style>
-        .box8_7{
+        .box8_12{
             display: flex;
             flex-wrap: wrap;
         }
-        .box8_7 a img{
+        .box8_12 a img{
             width:275px;
             height:274px;
             margin-right:1px;
@@ -222,45 +293,31 @@
         Fancybox.bind("[data-fancybox]", {
   // Custom options for all galleries
 });
-Fancybox.bind('[data-fancybox="gallery-a"]', {
-  // Custom options for the first gallery
-});
-Fancybox.bind('[data-fancybox="gallery-b"]', {
-  // Custom options for the second gallery
-}); 
     </script>
   <body>
-    <div class = "box8_7">
-      <a data-fancybox="gallery-a" data-src="https://s2.loli.net/2023/08/06/iNGeRFC2lwEAbXo.jpg">
-        <img src="https://s2.loli.net/2023/08/06/iNGeRFC2lwEAbXo.jpg" />
+    <div class = "box8_12">
+      <a data-fancybox="gallery" data-src="https://s2.loli.net/2023/08/06/ACUGmkFpcByiztg.jpg">
+        <img src="https://s2.loli.net/2023/08/06/ACUGmkFpcByiztg.jpg" />
       </a>
-      <a data-fancybox="gallery-a" data-src="https://s2.loli.net/2023/08/06/LIJK6sSD3BG4lNO.jpg">
-        <img src="https://s2.loli.net/2023/08/06/LIJK6sSD3BG4lNO.jpg" />
-      </a>
-      <a data-fancybox="gallery-a" data-src="https://s2.loli.net/2023/08/06/VMy8tJoURDucPzZ.jpg">
-        <img src="https://s2.loli.net/2023/08/06/VMy8tJoURDucPzZ.jpg" />
-      </a><span id="more"></span>
-      <a data-fancybox="gallery-a" data-src="https://s2.loli.net/2023/08/06/qTvbN6RZeJX8Djt.jpg">
-        <img src="https://s2.loli.net/2023/08/06/qTvbN6RZeJX8Djt.jpg" />
-      </a>
-      <a data-fancybox="gallery-a" data-src="https://s2.loli.net/2023/08/06/FtAOEDfKdceiZ6o.jpg">
-        <img src="https://s2.loli.net/2023/08/06/FtAOEDfKdceiZ6o.jpg" />
-      </a>
-      <a data-fancybox="gallery-a" data-src="https://s2.loli.net/2023/08/06/Q8LEuqoBCNtmPAM.jpg">
-        <img src="https://s2.loli.net/2023/08/06/Q8LEuqoBCNtmPAM.jpg" />
-      </a>
-    </div class = "box8_7_2">
-      <a data-fancybox="gallery-b" data-src="https://s2.loli.net/2023/08/06/ZzJc1qnRoKVusSa.jpg">
+      <a data-fancybox="gallery" data-src="https://s2.loli.net/2023/08/06/ZzJc1qnRoKVusSa.jpg">
         <img src="https://s2.loli.net/2023/08/06/ZzJc1qnRoKVusSa.jpg" />
-    <div>
+      </a>
+      <a data-fancybox="gallery" data-src="https://s2.loli.net/2023/08/06/q94FiXVzwCfTekn.jpg">
+        <img src="https://s2.loli.net/2023/08/06/q94FiXVzwCfTekn.jpg" />
+      </a><span id="more"></span>
+      <a data-fancybox="gallery" data-src="https://s2.loli.net/2023/08/06/QlPvhEbpdSCNwmk.jpg">
+        <img src="https://s2.loli.net/2023/08/06/QlPvhEbpdSCNwmk.jpg" />
+      </a>
+      <a data-fancybox="gallery" data-src="https://s2.loli.net/2023/08/06/zOA839NnKoLavWf.jpg">
+        <img src="https://s2.loli.net/2023/08/06/zOA839NnKoLavWf.jpg" />
+      </a>
+      <a data-fancybox="gallery" data-src="https://s2.loli.net/2023/08/06/3WANyXSpwkjcatZ.jpg">
+        <img src="https://s2.loli.net/2023/08/06/3WANyXSpwkjcatZ.jpg" />
+      </a>
     </div>
   </body>
 </html>
 
-<p>photoed by me.</p>
-]]></content>
-      <categories>
-        <category>相册</category>
-      </categories>
+<p>photoed by me.</p>]]></content>
   </entry>
 </search>
