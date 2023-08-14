@@ -68,10 +68,6 @@ Fancybox.bind('[data-fancybox="gallery-b"]', {
       <a data-fancybox="gallery-a" data-src="https://s2.loli.net/2023/08/06/Q8LEuqoBCNtmPAM.jpg">
         <img src="https://s2.loli.net/2023/08/06/Q8LEuqoBCNtmPAM.jpg" />
       </a>
-    </div class = "box8_7_2">
-      <a data-fancybox="gallery-b" data-src="https://s2.loli.net/2023/08/06/ZzJc1qnRoKVusSa.jpg">
-        <img src="https://s2.loli.net/2023/08/06/ZzJc1qnRoKVusSa.jpg" />
-    <div>
     </div>
   </body>
 </html>
@@ -255,7 +251,7 @@ Fancybox.bind('[data-fancybox="gallery-b"]', {
   <entry>
     <title>新的开始day2</title>
     <url>/2023/08/02/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8Bday2/</url>
-    <content><![CDATA[<p>&emsp;&emsp;今天设置了<a href="https://theme-next.js.org/">Next</a>这个主题，并成功部署在了gitee上。相比于两年前，这次我有认真阅读Hexo的官方文档和Next主题的文档，于是很顺利地用了两天时间完成了两年前花费了两周的工作。两年前我的心态有很大一部分是出于功利的，想尽快搭好可以供我炫耀的博客，所以我没有认真读过官方文档，遇到问题就在搜索引擎里一通乱找、乱试，走过不少弯路。而这次我的心态有很大一部分是兴趣使然，所以我可以慢下来仔细阅读文档。这也让我意识到，官方文档比搜索引擎中的内容靠谱许多。<br>&emsp;&emsp;接下来的任务是把这个主题优化一下，并且将图床弄好。</p>
+    <content><![CDATA[<p>&emsp;&emsp;今天设置了<a href="https://theme-next.js.org/">Next</a>这个主题，并成功部署在了gitee上。相比于两年前，这次我有认真阅读官方文档和主题文档，于是很顺利地用了两天时间完成了两年前花费了两周的工作。两年前我有些急于求成了，所以没有认真读过官方文档，遇到问题就在搜索引擎里一通乱找，走过不少弯路。而这次我的心态有很大一部分是兴趣使然，所以我可以慢下来仔细阅读文档。这也让我意识到，官方文档比搜索引擎中的内容靠谱许多。<br>&emsp;&emsp;接下来的任务是把这个主题优化一下，并且将图床弄好。</p>
 ]]></content>
       <categories>
         <category>杂记</category>
@@ -280,11 +276,12 @@ Fancybox.bind('[data-fancybox="gallery-b"]', {
             display: flex;
             flex-wrap: wrap;
         }
+        .box8_12 a{
+            width:49%;
+            margin-right:2px;
+        }
         .box8_12 a img{
-            width:275px;
-            height:274px;
-            margin-right:1px;
-            margin-bottom:1px;
+            margin-bottom:2px;
         }
     </style>
   </head>
@@ -301,18 +298,18 @@ Fancybox.bind('[data-fancybox="gallery-b"]', {
       </a>
       <a data-fancybox="gallery" data-src="https://s2.loli.net/2023/08/06/ZzJc1qnRoKVusSa.jpg">
         <img src="https://s2.loli.net/2023/08/06/ZzJc1qnRoKVusSa.jpg" />
+      </a><span id="more"></span>
+      <!--<a data-fancybox="gallery" data-src="https://s2.loli.net/2023/08/06/QlPvhEbpdSCNwmk.jpg">
+        <img src="https://s2.loli.net/2023/08/06/QlPvhEbpdSCNwmk.jpg" />
       </a>
       <a data-fancybox="gallery" data-src="https://s2.loli.net/2023/08/06/q94FiXVzwCfTekn.jpg">
         <img src="https://s2.loli.net/2023/08/06/q94FiXVzwCfTekn.jpg" />
-      </a><span id="more"></span>
-      <a data-fancybox="gallery" data-src="https://s2.loli.net/2023/08/06/QlPvhEbpdSCNwmk.jpg">
-        <img src="https://s2.loli.net/2023/08/06/QlPvhEbpdSCNwmk.jpg" />
-      </a>
+      </a>-->
       <a data-fancybox="gallery" data-src="https://s2.loli.net/2023/08/06/zOA839NnKoLavWf.jpg">
         <img src="https://s2.loli.net/2023/08/06/zOA839NnKoLavWf.jpg" />
       </a>
-      <a data-fancybox="gallery" data-src="https://s2.loli.net/2023/08/06/3WANyXSpwkjcatZ.jpg">
-        <img src="https://s2.loli.net/2023/08/06/3WANyXSpwkjcatZ.jpg" />
+      <a data-fancybox="gallery" data-src="https://s2.loli.net/2023/08/12/qlrMpoZbcSHF6a4.jpg">
+        <img src="https://s2.loli.net/2023/08/12/qlrMpoZbcSHF6a4.jpg" />
       </a>
     </div>
   </body>
