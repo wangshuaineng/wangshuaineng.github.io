@@ -28,11 +28,10 @@
             display: flex;
             flex-wrap: wrap;
         }
-        .box8_7 a img{
-            width:275px;
-            height:274px;
+        .box8_7 a{
+            width:33%;
             margin-right:1px;
-            margin-bottom:1px;
+            padding:0px;
         }
     </style>
   </head>
