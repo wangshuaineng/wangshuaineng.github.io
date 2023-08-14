@@ -2613,3 +2613,21 @@ header.header {
     padding: 10px 12px;
   }
 }
+body {
+  background: url("imagesgold-fish.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+.sidebar {
+  transition-duration: 0.4s;
+  opacity: 0.85;
+}
+.header {
+  background: #ddd;
+  opacity: 0.8;
+}
+.main-inner {
+  opacity: 0.95;
+}
