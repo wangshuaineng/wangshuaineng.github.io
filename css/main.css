@@ -2620,14 +2620,3 @@ body {
   background-size: cover;
   background-position: center;
 }
-.sidebar {
-  transition-duration: 0.4s;
-  opacity: 0.85;
-}
-.header {
-  background: #ddd;
-  opacity: 0.8;
-}
-.main-inner {
-  opacity: 0.95;
-}
