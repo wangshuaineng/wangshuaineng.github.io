@@ -187,7 +187,7 @@
         }
         .box8_7 a{
             width:49%;
-            margin-right:4px;
+            margin-right:2px;
         }
     </style>
   </head>
@@ -258,7 +258,7 @@
         }
         .box8_12 a{
             width:49%;
-            margin-right:4px;
+            margin-right:2px;
         }
         .box8_12 a img{
             margin-bottom:2px;
