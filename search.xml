@@ -189,6 +189,9 @@
             width:48%;
             margin-right:4px;
         }
+        .box8_7 a img{
+            margin-bottom:4px;
+        }
     </style>
   </head>
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
@@ -227,18 +230,6 @@
       <categories>
         <category>相册</category>
       </categories>
-  </entry>
-  <entry>
-    <title>新的开始</title>
-    <url>/2023/08/01/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</url>
-    <content><![CDATA[<p>&emsp;&emsp;这是我第二次学习搭建个人博客了，还是从Hexo开始。<br>&emsp;&emsp;第一次是两年前，由于遇到了某些当时对我来说很难的问题就搁置了，只发布了一篇文章，其他功能也都没有完善。这次借着研究生开学前的暑假重新折腾一下，一来是完善之前未竟的工作，二来是用它记录一下生活。Hexo搭建好后计划用typecho或wordpress再搭一个。 <span id="more"></span><br>&emsp;&emsp;相比于两年前，这次我有认真阅读官方文档和主题文档，于是很顺利地用了两天时间完成了两年前花费了两周的工作。两年前我有些急于求成了，所以没有认真读过官方文档，遇到问题就在搜索引擎里一通乱找，走过不少弯路。而这次我的心态有很大一部分是兴趣使然，所以我可以慢下来仔细阅读文档。这也让我意识到，官方文档比搜索引擎中的内容靠谱许多。</p>
-]]></content>
-      <categories>
-        <category>杂记</category>
-      </categories>
-      <tags>
-        <tag>杂记</tag>
-      </tags>
   </entry>
   <entry>
     <title>另一些摄影</title>
@@ -299,5 +290,17 @@
       <categories>
         <category>相册</category>
       </categories>
+  </entry>
+  <entry>
+    <title>新的开始</title>
+    <url>/2023/08/01/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</url>
+    <content><![CDATA[<p>&emsp;&emsp;这是我第二次学习搭建个人博客了，还是从Hexo开始。<br>&emsp;&emsp;第一次是两年前，由于遇到了某些当时对我来说很难的问题就搁置了，只发布了一篇文章，其他功能也都没有完善。这次借着研究生开学前的暑假重新折腾一下，一来是完善之前未竟的工作，二来是用它记录一下生活。Hexo搭建好后计划用typecho或wordpress再搭一个。 <span id="more"></span><br>&emsp;&emsp;相比于两年前，这次我有认真阅读官方文档和主题文档，于是很顺利地用了两天时间完成了两年前花费了两周的工作。两年前我有些急于求成了，所以没有认真读过官方文档，遇到问题就在搜索引擎里一通乱找，走过不少弯路。而这次我的心态有很大一部分是兴趣使然，所以我可以慢下来仔细阅读文档。这也让我意识到，官方文档比搜索引擎中的内容靠谱许多。</p>
+]]></content>
+      <categories>
+        <category>杂记</category>
+      </categories>
+      <tags>
+        <tag>杂记</tag>
+      </tags>
   </entry>
 </search>
