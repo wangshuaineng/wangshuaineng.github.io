@@ -4,6 +4,12 @@ const ap = new APlayer({
     autoplay: true,
     audio: [
       {
+        name: 'Agora Hills',
+        artist: 'Doja Cat',
+        url: 'http://music.163.com/song/media/outer/url?id=132192507.mp3',
+        cover: 'http://p1.music.126.net/xrIdzR_OVJOwlrNbYrA1vw==/109951168925926683.jpg?param=130y130',
+      },
+      {
         name: 'Self Love',
         artist: 'Metro Boomin / Coi Leray',
         url: 'http://music.163.com/song/media/outer/url?id=2052349052.mp3',
